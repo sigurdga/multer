@@ -32,7 +32,7 @@
     "connect": "*",
     "mocha": "*",
     "should": "*",
-    "supertest": "*",
+    "supertest": "sigurdga/supertest",
     "express": "*"
   },
   "author": {
